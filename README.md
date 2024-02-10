@@ -4,7 +4,7 @@
 
 # Important 
 
-Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is **illegal!** The developer will not be held responsible for improper use of this software.
+**Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is **illegal!** The developer will not be held responsible for improper use of this software.**
 
 ![Runner](https://i.ibb.co/mcY98q4/Screenshot-2024-02-10-22-49-17-654-org-krdbullet-krdbullet.jpg)
 
